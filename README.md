@@ -1,0 +1,2 @@
+# Treasure
+Beginners treasure
